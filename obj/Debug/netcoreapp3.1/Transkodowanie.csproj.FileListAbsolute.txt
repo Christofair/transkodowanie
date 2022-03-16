@@ -1,0 +1,15 @@
+D:\Transkodowanie\obj\Debug\netcoreapp3.1\Transkodowanie.csprojAssemblyReference.cache
+D:\Transkodowanie\obj\Debug\netcoreapp3.1\Transkodowanie.csproj.GenerateResource.cache
+D:\Transkodowanie\obj\Debug\netcoreapp3.1\Transkodowanie.AssemblyInfoInputs.cache
+D:\Transkodowanie\obj\Debug\netcoreapp3.1\Transkodowanie.AssemblyInfo.cs
+D:\Transkodowanie\obj\Debug\netcoreapp3.1\Transkodowanie.csproj.CoreCompileInputs.cache
+D:\Transkodowanie\bin\Debug\netcoreapp3.1\Transkodowanie.exe
+D:\Transkodowanie\bin\Debug\netcoreapp3.1\Transkodowanie.deps.json
+D:\Transkodowanie\bin\Debug\netcoreapp3.1\Transkodowanie.runtimeconfig.json
+D:\Transkodowanie\bin\Debug\netcoreapp3.1\Transkodowanie.runtimeconfig.dev.json
+D:\Transkodowanie\bin\Debug\netcoreapp3.1\Transkodowanie.dll
+D:\Transkodowanie\bin\Debug\netcoreapp3.1\Transkodowanie.pdb
+D:\Transkodowanie\obj\Debug\netcoreapp3.1\Transkodowanie.Form1.resources
+D:\Transkodowanie\obj\Debug\netcoreapp3.1\Transkodowanie.dll
+D:\Transkodowanie\obj\Debug\netcoreapp3.1\Transkodowanie.pdb
+D:\Transkodowanie\obj\Debug\netcoreapp3.1\Transkodowanie.genruntimeconfig.cache
